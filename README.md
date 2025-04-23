@@ -1,4 +1,5 @@
-# Catálogo de Séries 
+# Catálogo de Séries
+
 [![Laravel](https://img.shields.io/badge/Laravel_11.39.0-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [![Slack](https://img.shields.io/badge/Blade-4A154B)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 \
@@ -38,13 +39,24 @@ Siga os passos abaixo para rodar o projeto localmente:
    npm install
    ```
 
-3. **Execute o script dev**:
+3. **Defina as variáveis de ambiente**:
+
+   > Renomeie o arquivo `.env.example` para `.env`
+
+   ```bash
+   php artisan key:generate
+
+   ```
+
+   > Atualize APP_Key com a nova chave gerada
+
+4. **Execute o script dev**:
 
    ```bash
    npm run dev
    ```
 
-4. **Inicie o servidor de desenvolvimento**:
+5. **Inicie o servidor de desenvolvimento**:
 
    ```bash
    php artisan serve
@@ -82,9 +94,10 @@ Siga os passos abaixo para rodar o projeto localmente:
 5. Abra um **Pull Request** no GitHub.
 
 ## 📬 Contato
+
 **Ademir Cordeiro**
 \
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ademircordeiro)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ademircordeiro/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ademircordeiro) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ademircordeiro/)
 
 📧 Dúvidas ou sugestões? Entre em contato via LinkedIn ou abra uma issue!
 
