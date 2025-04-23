@@ -1,4 +1,5 @@
-# Catálogo de Séries
+# Catálogo de Séries 
+[![Laravel](https://img.shields.io/badge/Laravel_11.39.0-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [![Slack](https://img.shields.io/badge/Blade-4A154B)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 \
 Bem-vindo! Este repositório contém o projeto de estudo com **Laravel** para aprimorar minhas habilidades no framework.
@@ -19,18 +20,6 @@ Este projeto é ideal para quem deseja estudar Laravel ou explorar exemplos prá
   - Criar
   - Editar
   - Excluir
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Frontend**:
-  [![Slack](https://img.shields.io/badge/Blade-4A154B)](#) Motor de templates nativo do Laravel para criação de views dinâmicas e reutilizáveis.
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) Estilização.
-- **Backend**:
-  [![Laravel](https://img.shields.io/badge/Laravel_11.39.0-%23FF2D20.svg?logo=laravel&logoColor=white)](#) Framework PHP moderno e robusto utilizado para construção da API, rotas, autenticação, validação e regras de negócio.
-- **Ferramentas**
-  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) Banco de dados leve e prático para desenvolvimento local e projetos de pequeno porte.
-  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) Controle de versão.
-  [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) Gerenciamento de dependências.
 
 ## 📦 Instruções de Instalação
 
@@ -93,10 +82,9 @@ Siga os passos abaixo para rodar o projeto localmente:
 5. Abra um **Pull Request** no GitHub.
 
 ## 📬 Contato
-
-- **Autor**: Ademir Cordeiro
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ademircordeiro)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ademircordeiro/)
+**Ademir Cordeiro**
+\
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Ademircordeiro)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ademircordeiro/)
 
 📧 Dúvidas ou sugestões? Entre em contato via LinkedIn ou abra uma issue!
 
